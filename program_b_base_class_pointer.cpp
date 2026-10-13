@@ -1,4 +1,7 @@
-// Program (b): Invoking Derived Class Members Through Base Class Pointer
+/******************************************************************************
+ *                                PROGRAM B                                   *
+ *    Invoking Derived Class Members Through Base Class Pointer              *
+ ******************************************************************************/
 // This program demonstrates how to call derived class functions using a base class pointer.
 
 #include <iostream>
